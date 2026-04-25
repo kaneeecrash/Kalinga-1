@@ -538,11 +538,6 @@
         <p class="stat-card-value" id="totalMissions">0</p>
         <div class="stat-card-icon"><i class="bi bi-journal-check"></i></div>
       </div>
-      <div class="stat-card-body">
-        <div class="stat-mini"><i class="stat-mini-dot dot-orange"></i><strong>0</strong><span>Pending</span></div>
-        <div class="stat-mini"><i class="stat-mini-dot dot-green"></i><strong>0</strong><span>Completed</span></div>
-        <div class="stat-mini"><i class="stat-mini-dot dot-blue"></i><strong>0</strong><span>All Missions</span></div>
-      </div>
     </div>
 
     <div class="stat-card">
@@ -550,11 +545,6 @@
         <span class="stat-card-title">Ongoing Missions</span>
         <p class="stat-card-value" id="ongoingMissions">0</p>
         <div class="stat-card-icon"><i class="bi bi-clock-history"></i></div>
-      </div>
-      <div class="stat-card-body">
-        <div class="stat-mini"><i class="stat-mini-dot dot-orange"></i><strong>0</strong><span>Active now</span></div>
-        <div class="stat-mini"><i class="stat-mini-dot dot-blue"></i><strong>0</strong><span>This week</span></div>
-        <div class="stat-mini"><i class="stat-mini-dot dot-purple"></i><strong>0</strong><span>This month</span></div>
       </div>
     </div>
   </div>
