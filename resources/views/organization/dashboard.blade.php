@@ -391,6 +391,13 @@
   align-items: center;
 }
 
+#missionsTable th:last-child,
+#missionsTable td:last-child {
+  width: 120px;
+  white-space: nowrap;
+}
+
+
 .create-btn {
   height: 40px;
   border: none;
